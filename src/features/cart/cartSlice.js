@@ -1,5 +1,4 @@
 import { createSlice, createAsyncThunk } from '@reduxjs/toolkit'
-import cartItems from '../../cartItems'
 import axios from 'axios'
 
 const initialState = {
